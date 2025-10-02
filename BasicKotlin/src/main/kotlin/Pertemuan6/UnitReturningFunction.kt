@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun helloFunctionUnit() : Unit{
     println("Hellow Function Unit")

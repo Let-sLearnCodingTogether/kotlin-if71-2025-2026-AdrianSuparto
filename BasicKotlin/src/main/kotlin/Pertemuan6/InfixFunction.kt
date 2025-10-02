@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 infix  fun String.to(type: String) : String {
     if(type == "upper"){

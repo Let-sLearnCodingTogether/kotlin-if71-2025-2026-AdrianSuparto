@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun  greeting(name:String){
     println("Welcome, $name")

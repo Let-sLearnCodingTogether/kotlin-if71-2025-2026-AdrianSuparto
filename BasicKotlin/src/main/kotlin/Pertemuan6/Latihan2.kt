@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun hitungPanjangNama(name: String? = null): Int {
     if (name != null) return name.length else return 0

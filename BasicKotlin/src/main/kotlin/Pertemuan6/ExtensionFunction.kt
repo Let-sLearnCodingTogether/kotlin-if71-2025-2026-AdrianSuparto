@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun String.greeting(): String {
     return "Welcome, $this"

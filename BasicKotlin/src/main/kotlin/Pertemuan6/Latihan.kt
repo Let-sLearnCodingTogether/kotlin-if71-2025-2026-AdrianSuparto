@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun dataNama(nama:Array<String>) {
     for (name in nama) {

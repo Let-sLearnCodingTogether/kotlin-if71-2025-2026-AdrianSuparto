@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun sayHello1(firstName : String, lastName : String = "Tanpa lastname"){
     println("Hello. $firstName $lastName")

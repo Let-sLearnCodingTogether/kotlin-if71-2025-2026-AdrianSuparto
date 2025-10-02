@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun main() {
     println("Print Hasil Perkalian : ${perkalian(5,2)}")

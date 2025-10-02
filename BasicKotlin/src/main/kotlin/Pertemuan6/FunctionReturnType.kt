@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun main() {
     println("Sum result : ${sum(1,2)}")

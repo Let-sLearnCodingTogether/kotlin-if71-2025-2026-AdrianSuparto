@@ -14,4 +14,5 @@ fun main() {
     println(user[2])
 
     println("Size: ${user.size}")
+    println("Range: ${user.indices}")
 }

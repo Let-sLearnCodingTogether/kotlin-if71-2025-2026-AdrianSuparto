@@ -1,4 +1,4 @@
-package pertemuan6
+package Pertemuan6
 
 fun printUser(firstName: String,vararg users: String) {
     println(firstName)
