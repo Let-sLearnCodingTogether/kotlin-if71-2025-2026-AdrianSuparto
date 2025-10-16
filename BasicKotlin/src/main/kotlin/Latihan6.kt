@@ -37,3 +37,11 @@ fun main() {
         println("- $it")
     }
 }
+
+
+// Aksi	Sintaks	Keterangan
+//Tambah / update data	map[key] = value	jika key baru → tambah; jika key lama → ganti value
+//Tambah data baru saja	map.putIfAbsent(key, value)	tidak ganti kalau sudah ada
+//Tambah data	map.put(key, value)	sama seperti map[key] = value
+//Hapus data	map.remove(key)	hapus berdasarkan key
+//Loop isi map	map.forEach { (k, v) -> ... }	menelusuri seluruh isi map
