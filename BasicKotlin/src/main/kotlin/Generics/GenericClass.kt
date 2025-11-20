@@ -1,4 +1,4 @@
-package Generic
+package Generics
 
 class exampleGeneric(val data: Any)
 

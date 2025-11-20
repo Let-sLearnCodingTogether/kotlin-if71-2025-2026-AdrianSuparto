@@ -1,4 +1,4 @@
-package Generic
+package Generics
 
 fun main() {
     val daftarHarga: Map<String, Int> = mapOf(

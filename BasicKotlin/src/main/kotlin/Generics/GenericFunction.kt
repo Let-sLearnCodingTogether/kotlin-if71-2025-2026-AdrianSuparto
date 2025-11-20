@@ -1,4 +1,5 @@
-package Generic
+package Generics
+
 
 fun <T>sayHello(param:T){
     println("Halo $param")

@@ -1,4 +1,4 @@
-package Generic
+package Generics
 
 class ExampleMultipleType<T,U>(val pertama:T, val kedua:U)
 
