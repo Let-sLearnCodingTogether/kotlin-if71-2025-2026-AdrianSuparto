@@ -15,6 +15,6 @@ fun main() = runBlocking {
 }
 
 suspend fun updateVersion(){
-    delay(5_0000)
+    delay(5_000)
     println("Update selesai")
 }
